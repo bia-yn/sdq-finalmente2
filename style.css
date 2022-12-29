@@ -1,0 +1,8 @@
+body {
+    background: #ffffff url('./src/fotos/03a64ad2faadba5717fac4b0dc3347ca.jpeg') no-repeat center; 
+    background-size: cover;
+    width: 97.5vw;
+    min-height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
